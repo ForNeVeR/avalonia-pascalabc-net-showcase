@@ -1,0 +1,9 @@
+/.paket/
+/bin/
+/compiler/
+/libs/
+/packages/
+
+/*.exe
+/*.pcu
+/*.pdb
