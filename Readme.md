@@ -8,4 +8,4 @@ See [this post][post] (in Russian) for detailed discussion.
 
 [avaloniaui]: https://github.com/AvaloniaUI/Avalonia
 [pascalabc-net]: http://pascalabc.net/
-[post]: https://fornever.me/posts/2017-05-15-pascalabc-net-and-avaloniaui.html
+[post]: https://fornever.me/ru/posts/2017-05-15-pascalabc-net-and-avaloniaui.html
