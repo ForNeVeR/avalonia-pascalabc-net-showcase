@@ -1,0 +1,21 @@
+<Project Sdk="FVNever.PascalABC.NET.SDK/2.0.0">
+
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <MainCompile Include="Application.pas"/>
+        <Compile Include="*.pas"/>
+        <None Include="*.xaml"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Avalonia" Version="0.5.0"/>
+        <PackageReference Include="Avalonia.Win32" Version="0.5.0"/>
+        <PackageReference Include="Avalonia.Direct2D1" Version="0.5.0"/>
+    </ItemGroup>
+
+    <Target Name="CreateManifestResourceNames"/>
+
+</Project>

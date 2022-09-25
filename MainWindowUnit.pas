@@ -2,6 +2,7 @@ unit MainWindowUnit;
 {$resource MainWindowUnit.MainWindow.xaml}
 
 uses
+    References_Generated,
     Avalonia.Controls,
     Avalonia.Markup.Xaml;
 

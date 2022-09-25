@@ -1,12 +1,8 @@
-{$reference libs/Avalonia.Controls.dll}
-{$reference libs/Avalonia.Direct2D1.dll}
-{$reference libs/Avalonia.DotNetFrameworkRuntime.dll}
-{$reference libs/Avalonia.Markup.Xaml.dll}
-{$reference libs/Avalonia.Win32.dll}
-
 {$resource Application.App.xaml}
 
 uses
+    References_Generated,
+
     Avalonia,
     Avalonia.Controls,
     Avalonia.Markup.Xaml,

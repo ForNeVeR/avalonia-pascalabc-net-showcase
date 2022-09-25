@@ -1,9 +1,6 @@
-/.paket/
+/.idea/
 /bin/
-/compiler/
-/libs/
-/packages/
+/obj/
 
-/*.exe
-/*.pcu
-/*.pdb
+*.pcu
+*.user
